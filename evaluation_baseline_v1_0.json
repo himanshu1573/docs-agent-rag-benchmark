@@ -1,0 +1,1049 @@
+{
+  "evaluation_session": "Evaluation Baseline v1.0",
+  "date": "2026-03-20T20:25:38Z",
+  "total_queries": 130,
+  "successful_retrievals_top_3": 122,
+  "precision_at_3": 0.9385,
+  "queries": [
+    {
+      "query_id": "Q_001",
+      "query": "Where is the YAML manifest for TFJob located?",
+      "expected_intent": "code",
+      "ground_truth_available": true,
+      "retrieval_result": "PASS (Found in top 3)",
+      "notes": ""
+    },
+    {
+      "query_id": "Q_002",
+      "query": "Can I run KFP Pipelines without Istio?",
+      "expected_intent": "docs",
+      "ground_truth_available": true,
+      "retrieval_result": "PASS (Found in top 3)",
+      "notes": ""
+    },
+    {
+      "query_id": "Q_003",
+      "query": "Can I run Profile Controller without Istio?",
+      "expected_intent": "docs",
+      "ground_truth_available": true,
+      "retrieval_result": "PASS (Found in top 3)",
+      "notes": ""
+    },
+    {
+      "query_id": "Q_004",
+      "query": "How do I install Manifests & Kustomize?",
+      "expected_intent": "docs",
+      "ground_truth_available": true,
+      "retrieval_result": "PASS (Found in top 3)",
+      "notes": ""
+    },
+    {
+      "query_id": "Q_005",
+      "query": "How to debug a failing KFP Pipelines pod?",
+      "expected_intent": "docs",
+      "ground_truth_available": true,
+      "retrieval_result": "PASS (Found in top 3)",
+      "notes": ""
+    },
+    {
+      "query_id": "Q_006",
+      "query": "How do I install KFP Pipelines?",
+      "expected_intent": "docs",
+      "ground_truth_available": true,
+      "retrieval_result": "PASS (Found in top 3)",
+      "notes": ""
+    },
+    {
+      "query_id": "Q_007",
+      "query": "What permissions are needed for KServe Model Serving?",
+      "expected_intent": "docs",
+      "ground_truth_available": true,
+      "retrieval_result": "PASS (Found in top 3)",
+      "notes": ""
+    },
+    {
+      "query_id": "Q_008",
+      "query": "What is the default port for KServe Model Serving?",
+      "expected_intent": "docs",
+      "ground_truth_available": true,
+      "retrieval_result": "PASS (Found in top 3)",
+      "notes": ""
+    },
+    {
+      "query_id": "Q_009",
+      "query": "How do I install Dex Authentication?",
+      "expected_intent": "docs",
+      "ground_truth_available": true,
+      "retrieval_result": "PASS (Found in top 3)",
+      "notes": ""
+    },
+    {
+      "query_id": "Q_010",
+      "query": "How do I mount a PVC to KServe Model Serving?",
+      "expected_intent": "docs",
+      "ground_truth_available": true,
+      "retrieval_result": "PASS (Found in top 3)",
+      "notes": ""
+    },
+    {
+      "query_id": "Q_011",
+      "query": "What logging options exist for Katib Hyperparameter Tuning?",
+      "expected_intent": "docs",
+      "ground_truth_available": true,
+      "retrieval_result": "PASS (Found in top 3)",
+      "notes": ""
+    },
+    {
+      "query_id": "Q_012",
+      "query": "How do I mount a PVC to PytorchJob?",
+      "expected_intent": "docs",
+      "ground_truth_available": true,
+      "retrieval_result": "PASS (Found in top 3)",
+      "notes": ""
+    },
+    {
+      "query_id": "Q_013",
+      "query": "What is the default port for Dex Authentication?",
+      "expected_intent": "docs",
+      "ground_truth_available": true,
+      "retrieval_result": "PASS (Found in top 3)",
+      "notes": ""
+    },
+    {
+      "query_id": "Q_014",
+      "query": "What is the default port for KFP Pipelines?",
+      "expected_intent": "docs",
+      "ground_truth_available": true,
+      "retrieval_result": "PASS (Found in top 3)",
+      "notes": ""
+    },
+    {
+      "query_id": "Q_015",
+      "query": "Where is the YAML manifest for Notebook Servers located?",
+      "expected_intent": "code",
+      "ground_truth_available": true,
+      "retrieval_result": "PASS (Found in top 3)",
+      "notes": ""
+    },
+    {
+      "query_id": "Q_016",
+      "query": "What is the default port for KFP Pipelines?",
+      "expected_intent": "docs",
+      "ground_truth_available": true,
+      "retrieval_result": "PASS (Found in top 3)",
+      "notes": ""
+    },
+    {
+      "query_id": "Q_017",
+      "query": "Explain the architecture of Istio Integration.",
+      "expected_intent": "docs",
+      "ground_truth_available": true,
+      "retrieval_result": "PASS (Found in top 3)",
+      "notes": ""
+    },
+    {
+      "query_id": "Q_018",
+      "query": "How to configure Notebook Servers with custom resources?",
+      "expected_intent": "docs",
+      "ground_truth_available": true,
+      "retrieval_result": "PASS (Found in top 3)",
+      "notes": ""
+    },
+    {
+      "query_id": "Q_019",
+      "query": "How to configure Central Dashboard with custom resources?",
+      "expected_intent": "docs",
+      "ground_truth_available": true,
+      "retrieval_result": "PASS (Found in top 3)",
+      "notes": ""
+    },
+    {
+      "query_id": "Q_020",
+      "query": "How do I install KServe Model Serving?",
+      "expected_intent": "docs",
+      "ground_truth_available": true,
+      "retrieval_result": "PASS (Found in top 3)",
+      "notes": ""
+    },
+    {
+      "query_id": "Q_021",
+      "query": "What permissions are needed for Notebook Servers?",
+      "expected_intent": "docs",
+      "ground_truth_available": true,
+      "retrieval_result": "PASS (Found in top 3)",
+      "notes": ""
+    },
+    {
+      "query_id": "Q_022",
+      "query": "What logging options exist for Training Operators?",
+      "expected_intent": "docs",
+      "ground_truth_available": true,
+      "retrieval_result": "PASS (Found in top 3)",
+      "notes": ""
+    },
+    {
+      "query_id": "Q_023",
+      "query": "What logging options exist for PytorchJob?",
+      "expected_intent": "docs",
+      "ground_truth_available": true,
+      "retrieval_result": "PASS (Found in top 3)",
+      "notes": ""
+    },
+    {
+      "query_id": "Q_024",
+      "query": "What permissions are needed for Central Dashboard?",
+      "expected_intent": "docs",
+      "ground_truth_available": true,
+      "retrieval_result": "PASS (Found in top 3)",
+      "notes": ""
+    },
+    {
+      "query_id": "Q_025",
+      "query": "What logging options exist for Istio Integration?",
+      "expected_intent": "docs",
+      "ground_truth_available": true,
+      "retrieval_result": "PASS (Found in top 3)",
+      "notes": ""
+    },
+    {
+      "query_id": "Q_026",
+      "query": "How to debug a failing KServe Model Serving pod?",
+      "expected_intent": "docs",
+      "ground_truth_available": true,
+      "retrieval_result": "PASS (Found in top 3)",
+      "notes": ""
+    },
+    {
+      "query_id": "Q_027",
+      "query": "How do I install KServe Model Serving?",
+      "expected_intent": "docs",
+      "ground_truth_available": true,
+      "retrieval_result": "PASS (Found in top 3)",
+      "notes": ""
+    },
+    {
+      "query_id": "Q_028",
+      "query": "How to debug a failing Notebook Servers pod?",
+      "expected_intent": "docs",
+      "ground_truth_available": true,
+      "retrieval_result": "PASS (Found in top 3)",
+      "notes": ""
+    },
+    {
+      "query_id": "Q_029",
+      "query": "Where is the YAML manifest for Notebook Servers located?",
+      "expected_intent": "code",
+      "ground_truth_available": true,
+      "retrieval_result": "PASS (Found in top 3)",
+      "notes": ""
+    },
+    {
+      "query_id": "Q_030",
+      "query": "What logging options exist for Manifests & Kustomize?",
+      "expected_intent": "docs",
+      "ground_truth_available": true,
+      "retrieval_result": "PASS (Found in top 3)",
+      "notes": ""
+    },
+    {
+      "query_id": "Q_031",
+      "query": "How do I install Katib Hyperparameter Tuning?",
+      "expected_intent": "docs",
+      "ground_truth_available": true,
+      "retrieval_result": "PASS (Found in top 3)",
+      "notes": ""
+    },
+    {
+      "query_id": "Q_032",
+      "query": "How do I install TFJob?",
+      "expected_intent": "docs",
+      "ground_truth_available": true,
+      "retrieval_result": "PASS (Found in top 3)",
+      "notes": ""
+    },
+    {
+      "query_id": "Q_033",
+      "query": "What is the default port for Dex Authentication?",
+      "expected_intent": "docs",
+      "ground_truth_available": true,
+      "retrieval_result": "PASS (Found in top 3)",
+      "notes": ""
+    },
+    {
+      "query_id": "Q_034",
+      "query": "What logging options exist for Central Dashboard?",
+      "expected_intent": "docs",
+      "ground_truth_available": true,
+      "retrieval_result": "PASS (Found in top 3)",
+      "notes": ""
+    },
+    {
+      "query_id": "Q_035",
+      "query": "What logging options exist for TFJob?",
+      "expected_intent": "docs",
+      "ground_truth_available": true,
+      "retrieval_result": "PASS (Found in top 3)",
+      "notes": ""
+    },
+    {
+      "query_id": "Q_036",
+      "query": "Can I run Katib Hyperparameter Tuning without Istio?",
+      "expected_intent": "docs",
+      "ground_truth_available": true,
+      "retrieval_result": "PASS (Found in top 3)",
+      "notes": ""
+    },
+    {
+      "query_id": "Q_037",
+      "query": "What permissions are needed for PytorchJob?",
+      "expected_intent": "docs",
+      "ground_truth_available": true,
+      "retrieval_result": "PASS (Found in top 3)",
+      "notes": ""
+    },
+    {
+      "query_id": "Q_038",
+      "query": "Can I run Profile Controller without Istio?",
+      "expected_intent": "docs",
+      "ground_truth_available": true,
+      "retrieval_result": "PASS (Found in top 3)",
+      "notes": ""
+    },
+    {
+      "query_id": "Q_039",
+      "query": "What is the default port for KServe Model Serving?",
+      "expected_intent": "docs",
+      "ground_truth_available": true,
+      "retrieval_result": "PASS (Found in top 3)",
+      "notes": ""
+    },
+    {
+      "query_id": "Q_040",
+      "query": "How do I install Central Dashboard?",
+      "expected_intent": "docs",
+      "ground_truth_available": true,
+      "retrieval_result": "PASS (Found in top 3)",
+      "notes": ""
+    },
+    {
+      "query_id": "Q_041",
+      "query": "Where is the YAML manifest for PytorchJob located?",
+      "expected_intent": "code",
+      "ground_truth_available": true,
+      "retrieval_result": "PASS (Found in top 3)",
+      "notes": ""
+    },
+    {
+      "query_id": "Q_042",
+      "query": "What permissions are needed for KFP Pipelines?",
+      "expected_intent": "docs",
+      "ground_truth_available": true,
+      "retrieval_result": "PASS (Found in top 3)",
+      "notes": ""
+    },
+    {
+      "query_id": "Q_043",
+      "query": "Explain the architecture of Manifests & Kustomize.",
+      "expected_intent": "docs",
+      "ground_truth_available": true,
+      "retrieval_result": "PASS (Found in top 3)",
+      "notes": ""
+    },
+    {
+      "query_id": "Q_044",
+      "query": "Where is the YAML manifest for KFP Pipelines located?",
+      "expected_intent": "code",
+      "ground_truth_available": true,
+      "retrieval_result": "PASS (Found in top 3)",
+      "notes": ""
+    },
+    {
+      "query_id": "Q_045",
+      "query": "Can I run TFJob without Istio?",
+      "expected_intent": "docs",
+      "ground_truth_available": true,
+      "retrieval_result": "PASS (Found in top 3)",
+      "notes": ""
+    },
+    {
+      "query_id": "Q_046",
+      "query": "What permissions are needed for Manifests & Kustomize?",
+      "expected_intent": "docs",
+      "ground_truth_available": true,
+      "retrieval_result": "PASS (Found in top 3)",
+      "notes": ""
+    },
+    {
+      "query_id": "Q_047",
+      "query": "How to configure Istio Integration with custom resources?",
+      "expected_intent": "docs",
+      "ground_truth_available": true,
+      "retrieval_result": "PASS (Found in top 3)",
+      "notes": ""
+    },
+    {
+      "query_id": "Q_048",
+      "query": "How do I mount a PVC to KFP Pipelines?",
+      "expected_intent": "docs",
+      "ground_truth_available": true,
+      "retrieval_result": "PASS (Found in top 3)",
+      "notes": ""
+    },
+    {
+      "query_id": "Q_049",
+      "query": "What logging options exist for PytorchJob?",
+      "expected_intent": "docs",
+      "ground_truth_available": true,
+      "retrieval_result": "PASS (Found in top 3)",
+      "notes": ""
+    },
+    {
+      "query_id": "Q_050",
+      "query": "How to configure Profile Controller with custom resources?",
+      "expected_intent": "docs",
+      "ground_truth_available": true,
+      "retrieval_result": "PASS (Found in top 3)",
+      "notes": ""
+    },
+    {
+      "query_id": "Q_051",
+      "query": "How do I mount a PVC to Katib Hyperparameter Tuning?",
+      "expected_intent": "docs",
+      "ground_truth_available": true,
+      "retrieval_result": "PASS (Found in top 3)",
+      "notes": ""
+    },
+    {
+      "query_id": "Q_052",
+      "query": "What is the default port for PytorchJob?",
+      "expected_intent": "docs",
+      "ground_truth_available": true,
+      "retrieval_result": "PASS (Found in top 3)",
+      "notes": ""
+    },
+    {
+      "query_id": "Q_053",
+      "query": "Explain the architecture of Central Dashboard.",
+      "expected_intent": "docs",
+      "ground_truth_available": true,
+      "retrieval_result": "PASS (Found in top 3)",
+      "notes": ""
+    },
+    {
+      "query_id": "Q_054",
+      "query": "Where is the YAML manifest for Istio Integration located?",
+      "expected_intent": "code",
+      "ground_truth_available": true,
+      "retrieval_result": "PASS (Found in top 3)",
+      "notes": ""
+    },
+    {
+      "query_id": "Q_055",
+      "query": "What permissions are needed for PytorchJob?",
+      "expected_intent": "docs",
+      "ground_truth_available": true,
+      "retrieval_result": "PASS (Found in top 3)",
+      "notes": ""
+    },
+    {
+      "query_id": "Q_056",
+      "query": "How do I install Dex Authentication?",
+      "expected_intent": "docs",
+      "ground_truth_available": true,
+      "retrieval_result": "PASS (Found in top 3)",
+      "notes": ""
+    },
+    {
+      "query_id": "Q_057",
+      "query": "How to debug a failing Notebook Servers pod?",
+      "expected_intent": "docs",
+      "ground_truth_available": true,
+      "retrieval_result": "PASS (Found in top 3)",
+      "notes": ""
+    },
+    {
+      "query_id": "Q_058",
+      "query": "What permissions are needed for Dex Authentication?",
+      "expected_intent": "docs",
+      "ground_truth_available": true,
+      "retrieval_result": "PASS (Found in top 3)",
+      "notes": ""
+    },
+    {
+      "query_id": "Q_059",
+      "query": "Explain the architecture of Training Operators.",
+      "expected_intent": "docs",
+      "ground_truth_available": true,
+      "retrieval_result": "PASS (Found in top 3)",
+      "notes": ""
+    },
+    {
+      "query_id": "Q_060",
+      "query": "What permissions are needed for Katib Hyperparameter Tuning?",
+      "expected_intent": "docs",
+      "ground_truth_available": true,
+      "retrieval_result": "PASS (Found in top 3)",
+      "notes": ""
+    },
+    {
+      "query_id": "Q_061",
+      "query": "Where is the YAML manifest for PytorchJob located?",
+      "expected_intent": "code",
+      "ground_truth_available": true,
+      "retrieval_result": "PASS (Found in top 3)",
+      "notes": ""
+    },
+    {
+      "query_id": "Q_062",
+      "query": "What permissions are needed for Notebook Servers?",
+      "expected_intent": "docs",
+      "ground_truth_available": true,
+      "retrieval_result": "PASS (Found in top 3)",
+      "notes": ""
+    },
+    {
+      "query_id": "Q_063",
+      "query": "What permissions are needed for KServe Model Serving?",
+      "expected_intent": "docs",
+      "ground_truth_available": true,
+      "retrieval_result": "PASS (Found in top 3)",
+      "notes": ""
+    },
+    {
+      "query_id": "Q_064",
+      "query": "Where is the YAML manifest for Notebook Servers located?",
+      "expected_intent": "code",
+      "ground_truth_available": true,
+      "retrieval_result": "PASS (Found in top 3)",
+      "notes": ""
+    },
+    {
+      "query_id": "Q_065",
+      "query": "Where is the YAML manifest for KFP Pipelines located?",
+      "expected_intent": "code",
+      "ground_truth_available": true,
+      "retrieval_result": "PASS (Found in top 3)",
+      "notes": ""
+    },
+    {
+      "query_id": "Q_066",
+      "query": "How to configure Central Dashboard with custom resources?",
+      "expected_intent": "docs",
+      "ground_truth_available": true,
+      "retrieval_result": "PASS (Found in top 3)",
+      "notes": ""
+    },
+    {
+      "query_id": "Q_067",
+      "query": "How to configure Training Operators with custom resources?",
+      "expected_intent": "docs",
+      "ground_truth_available": true,
+      "retrieval_result": "PASS (Found in top 3)",
+      "notes": ""
+    },
+    {
+      "query_id": "Q_068",
+      "query": "How do I mount a PVC to Manifests & Kustomize?",
+      "expected_intent": "docs",
+      "ground_truth_available": true,
+      "retrieval_result": "PASS (Found in top 3)",
+      "notes": ""
+    },
+    {
+      "query_id": "Q_069",
+      "query": "What is the default port for Central Dashboard?",
+      "expected_intent": "docs",
+      "ground_truth_available": true,
+      "retrieval_result": "PASS (Found in top 3)",
+      "notes": ""
+    },
+    {
+      "query_id": "Q_070",
+      "query": "What permissions are needed for KServe Model Serving?",
+      "expected_intent": "docs",
+      "ground_truth_available": true,
+      "retrieval_result": "PASS (Found in top 3)",
+      "notes": ""
+    },
+    {
+      "query_id": "Q_071",
+      "query": "What is the default port for Istio Integration?",
+      "expected_intent": "docs",
+      "ground_truth_available": true,
+      "retrieval_result": "PASS (Found in top 3)",
+      "notes": ""
+    },
+    {
+      "query_id": "Q_072",
+      "query": "Where is the YAML manifest for Profile Controller located?",
+      "expected_intent": "code",
+      "ground_truth_available": true,
+      "retrieval_result": "PASS (Found in top 3)",
+      "notes": ""
+    },
+    {
+      "query_id": "Q_073",
+      "query": "Explain the architecture of KFP Pipelines.",
+      "expected_intent": "docs",
+      "ground_truth_available": true,
+      "retrieval_result": "PASS (Found in top 3)",
+      "notes": ""
+    },
+    {
+      "query_id": "Q_074",
+      "query": "How to configure KServe Model Serving with custom resources?",
+      "expected_intent": "docs",
+      "ground_truth_available": true,
+      "retrieval_result": "PASS (Found in top 3)",
+      "notes": ""
+    },
+    {
+      "query_id": "Q_075",
+      "query": "Explain the architecture of Manifests & Kustomize.",
+      "expected_intent": "docs",
+      "ground_truth_available": true,
+      "retrieval_result": "PASS (Found in top 3)",
+      "notes": ""
+    },
+    {
+      "query_id": "Q_076",
+      "query": "How do I install Istio Integration?",
+      "expected_intent": "docs",
+      "ground_truth_available": true,
+      "retrieval_result": "PASS (Found in top 3)",
+      "notes": ""
+    },
+    {
+      "query_id": "Q_077",
+      "query": "How to debug a failing TFJob pod?",
+      "expected_intent": "docs",
+      "ground_truth_available": true,
+      "retrieval_result": "PASS (Found in top 3)",
+      "notes": ""
+    },
+    {
+      "query_id": "Q_078",
+      "query": "How do I mount a PVC to Dex Authentication?",
+      "expected_intent": "docs",
+      "ground_truth_available": true,
+      "retrieval_result": "PASS (Found in top 3)",
+      "notes": ""
+    },
+    {
+      "query_id": "Q_079",
+      "query": "Can I run TFJob without Istio?",
+      "expected_intent": "docs",
+      "ground_truth_available": true,
+      "retrieval_result": "PASS (Found in top 3)",
+      "notes": ""
+    },
+    {
+      "query_id": "Q_080",
+      "query": "How to debug a failing TFJob pod?",
+      "expected_intent": "docs",
+      "ground_truth_available": true,
+      "retrieval_result": "PASS (Found in top 3)",
+      "notes": ""
+    },
+    {
+      "query_id": "Q_081",
+      "query": "What permissions are needed for Profile Controller?",
+      "expected_intent": "docs",
+      "ground_truth_available": true,
+      "retrieval_result": "PASS (Found in top 3)",
+      "notes": ""
+    },
+    {
+      "query_id": "Q_082",
+      "query": "Can I run TFJob without Istio?",
+      "expected_intent": "docs",
+      "ground_truth_available": true,
+      "retrieval_result": "PASS (Found in top 3)",
+      "notes": ""
+    },
+    {
+      "query_id": "Q_083",
+      "query": "How to debug a failing Notebook Servers pod?",
+      "expected_intent": "docs",
+      "ground_truth_available": true,
+      "retrieval_result": "PASS (Found in top 3)",
+      "notes": ""
+    },
+    {
+      "query_id": "Q_084",
+      "query": "How to configure Profile Controller with custom resources?",
+      "expected_intent": "docs",
+      "ground_truth_available": true,
+      "retrieval_result": "PASS (Found in top 3)",
+      "notes": ""
+    },
+    {
+      "query_id": "Q_085",
+      "query": "How to debug a failing Profile Controller pod?",
+      "expected_intent": "docs",
+      "ground_truth_available": true,
+      "retrieval_result": "PASS (Found in top 3)",
+      "notes": ""
+    },
+    {
+      "query_id": "Q_086",
+      "query": "What is the default port for Central Dashboard?",
+      "expected_intent": "docs",
+      "ground_truth_available": true,
+      "retrieval_result": "PASS (Found in top 3)",
+      "notes": ""
+    },
+    {
+      "query_id": "Q_087",
+      "query": "Explain the architecture of Manifests & Kustomize.",
+      "expected_intent": "docs",
+      "ground_truth_available": true,
+      "retrieval_result": "PASS (Found in top 3)",
+      "notes": ""
+    },
+    {
+      "query_id": "Q_088",
+      "query": "What permissions are needed for KServe Model Serving?",
+      "expected_intent": "docs",
+      "ground_truth_available": true,
+      "retrieval_result": "PASS (Found in top 3)",
+      "notes": ""
+    },
+    {
+      "query_id": "Q_089",
+      "query": "What permissions are needed for KFP Pipelines?",
+      "expected_intent": "docs",
+      "ground_truth_available": true,
+      "retrieval_result": "PASS (Found in top 3)",
+      "notes": ""
+    },
+    {
+      "query_id": "Q_090",
+      "query": "Can I run Central Dashboard without Istio?",
+      "expected_intent": "docs",
+      "ground_truth_available": true,
+      "retrieval_result": "PASS (Found in top 3)",
+      "notes": ""
+    },
+    {
+      "query_id": "Q_091",
+      "query": "Where is the YAML manifest for Profile Controller located?",
+      "expected_intent": "code",
+      "ground_truth_available": true,
+      "retrieval_result": "PASS (Found in top 3)",
+      "notes": ""
+    },
+    {
+      "query_id": "Q_092",
+      "query": "How to configure Dex Authentication with custom resources?",
+      "expected_intent": "docs",
+      "ground_truth_available": true,
+      "retrieval_result": "PASS (Found in top 3)",
+      "notes": ""
+    },
+    {
+      "query_id": "Q_093",
+      "query": "Where is the YAML manifest for Notebook Servers located?",
+      "expected_intent": "code",
+      "ground_truth_available": true,
+      "retrieval_result": "PASS (Found in top 3)",
+      "notes": ""
+    },
+    {
+      "query_id": "Q_094",
+      "query": "What is the default port for TFJob?",
+      "expected_intent": "docs",
+      "ground_truth_available": true,
+      "retrieval_result": "PASS (Found in top 3)",
+      "notes": ""
+    },
+    {
+      "query_id": "Q_095",
+      "query": "How to configure Central Dashboard with custom resources?",
+      "expected_intent": "docs",
+      "ground_truth_available": true,
+      "retrieval_result": "PASS (Found in top 3)",
+      "notes": ""
+    },
+    {
+      "query_id": "Q_096",
+      "query": "How do I install TFJob?",
+      "expected_intent": "docs",
+      "ground_truth_available": true,
+      "retrieval_result": "PASS (Found in top 3)",
+      "notes": ""
+    },
+    {
+      "query_id": "Q_097",
+      "query": "How do I install TFJob?",
+      "expected_intent": "docs",
+      "ground_truth_available": true,
+      "retrieval_result": "PASS (Found in top 3)",
+      "notes": ""
+    },
+    {
+      "query_id": "Q_098",
+      "query": "What permissions are needed for Manifests & Kustomize?",
+      "expected_intent": "docs",
+      "ground_truth_available": true,
+      "retrieval_result": "PASS (Found in top 3)",
+      "notes": ""
+    },
+    {
+      "query_id": "Q_099",
+      "query": "Explain the architecture of Manifests & Kustomize.",
+      "expected_intent": "docs",
+      "ground_truth_available": true,
+      "retrieval_result": "PASS (Found in top 3)",
+      "notes": ""
+    },
+    {
+      "query_id": "Q_100",
+      "query": "Explain the architecture of Profile Controller.",
+      "expected_intent": "docs",
+      "ground_truth_available": true,
+      "retrieval_result": "PASS (Found in top 3)",
+      "notes": ""
+    },
+    {
+      "query_id": "Q_101",
+      "query": "Can I run Katib Hyperparameter Tuning without Istio?",
+      "expected_intent": "docs",
+      "ground_truth_available": true,
+      "retrieval_result": "PASS (Found in top 3)",
+      "notes": ""
+    },
+    {
+      "query_id": "Q_102",
+      "query": "How to debug a failing Istio Integration pod?",
+      "expected_intent": "docs",
+      "ground_truth_available": true,
+      "retrieval_result": "PASS (Found in top 3)",
+      "notes": ""
+    },
+    {
+      "query_id": "Q_103",
+      "query": "Can I run Istio Integration without Istio?",
+      "expected_intent": "docs",
+      "ground_truth_available": true,
+      "retrieval_result": "PASS (Found in top 3)",
+      "notes": ""
+    },
+    {
+      "query_id": "Q_104",
+      "query": "Explain the architecture of Notebook Servers.",
+      "expected_intent": "docs",
+      "ground_truth_available": true,
+      "retrieval_result": "PASS (Found in top 3)",
+      "notes": ""
+    },
+    {
+      "query_id": "Q_105",
+      "query": "Where is the YAML manifest for KFP Pipelines located?",
+      "expected_intent": "code",
+      "ground_truth_available": true,
+      "retrieval_result": "PASS (Found in top 3)",
+      "notes": ""
+    },
+    {
+      "query_id": "Q_106",
+      "query": "Can I run Training Operators without Istio?",
+      "expected_intent": "docs",
+      "ground_truth_available": true,
+      "retrieval_result": "PASS (Found in top 3)",
+      "notes": ""
+    },
+    {
+      "query_id": "Q_107",
+      "query": "What permissions are needed for Training Operators?",
+      "expected_intent": "docs",
+      "ground_truth_available": true,
+      "retrieval_result": "PASS (Found in top 3)",
+      "notes": ""
+    },
+    {
+      "query_id": "Q_108",
+      "query": "How do I mount a PVC to PytorchJob?",
+      "expected_intent": "docs",
+      "ground_truth_available": true,
+      "retrieval_result": "PASS (Found in top 3)",
+      "notes": ""
+    },
+    {
+      "query_id": "Q_109",
+      "query": "What permissions are needed for KFP Pipelines?",
+      "expected_intent": "docs",
+      "ground_truth_available": true,
+      "retrieval_result": "PASS (Found in top 3)",
+      "notes": ""
+    },
+    {
+      "query_id": "Q_110",
+      "query": "Can I run Katib Hyperparameter Tuning without Istio?",
+      "expected_intent": "docs",
+      "ground_truth_available": true,
+      "retrieval_result": "PASS (Found in top 3)",
+      "notes": ""
+    },
+    {
+      "query_id": "Q_111",
+      "query": "How to debug a failing Training Operators pod?",
+      "expected_intent": "docs",
+      "ground_truth_available": true,
+      "retrieval_result": "PASS (Found in top 3)",
+      "notes": ""
+    },
+    {
+      "query_id": "Q_112",
+      "query": "Where is the YAML manifest for KServe Model Serving located?",
+      "expected_intent": "code",
+      "ground_truth_available": true,
+      "retrieval_result": "PASS (Found in top 3)",
+      "notes": ""
+    },
+    {
+      "query_id": "Q_113",
+      "query": "What permissions are needed for Notebook Servers?",
+      "expected_intent": "docs",
+      "ground_truth_available": true,
+      "retrieval_result": "PASS (Found in top 3)",
+      "notes": ""
+    },
+    {
+      "query_id": "Q_114",
+      "query": "What is the default port for Katib Hyperparameter Tuning?",
+      "expected_intent": "docs",
+      "ground_truth_available": true,
+      "retrieval_result": "PASS (Found in top 3)",
+      "notes": ""
+    },
+    {
+      "query_id": "Q_115",
+      "query": "Where is the YAML manifest for Central Dashboard located?",
+      "expected_intent": "code",
+      "ground_truth_available": true,
+      "retrieval_result": "PASS (Found in top 3)",
+      "notes": ""
+    },
+    {
+      "query_id": "Q_116",
+      "query": "How to debug a failing Katib Hyperparameter Tuning pod?",
+      "expected_intent": "docs",
+      "ground_truth_available": true,
+      "retrieval_result": "PASS (Found in top 3)",
+      "notes": ""
+    },
+    {
+      "query_id": "Q_117",
+      "query": "How do I install Training Operators?",
+      "expected_intent": "docs",
+      "ground_truth_available": true,
+      "retrieval_result": "PASS (Found in top 3)",
+      "notes": ""
+    },
+    {
+      "query_id": "Q_118",
+      "query": "What permissions are needed for Katib Hyperparameter Tuning?",
+      "expected_intent": "docs",
+      "ground_truth_available": true,
+      "retrieval_result": "PASS (Found in top 3)",
+      "notes": ""
+    },
+    {
+      "query_id": "Q_119",
+      "query": "What permissions are needed for Manifests & Kustomize?",
+      "expected_intent": "docs",
+      "ground_truth_available": true,
+      "retrieval_result": "PASS (Found in top 3)",
+      "notes": ""
+    },
+    {
+      "query_id": "Q_120",
+      "query": "How to configure KServe Model Serving with custom resources?",
+      "expected_intent": "docs",
+      "ground_truth_available": true,
+      "retrieval_result": "PASS (Found in top 3)",
+      "notes": ""
+    },
+    {
+      "query_id": "Q_121",
+      "query": "What permissions are needed for KServe Model Serving?",
+      "expected_intent": "docs",
+      "ground_truth_available": true,
+      "retrieval_result": "PASS (Found in top 3)",
+      "notes": ""
+    },
+    {
+      "query_id": "Q_122",
+      "query": "How to configure Training Operators with custom resources?",
+      "expected_intent": "docs",
+      "ground_truth_available": true,
+      "retrieval_result": "PASS (Found in top 3)",
+      "notes": ""
+    },
+    {
+      "query_id": "Q_123",
+      "query": "What are the release notes for Kubeflow 1.9 precise pipeline caching changes?",
+      "expected_intent": "docs",
+      "ground_truth_available": false,
+      "retrieval_result": "FAIL (Not in top 3)",
+      "notes": "Failed: Very recent release notes not fully ingested yet."
+    },
+    {
+      "query_id": "Q_124",
+      "query": "What are the release notes for KServe 0.13 modelmesh latest updates?",
+      "expected_intent": "docs",
+      "ground_truth_available": false,
+      "retrieval_result": "FAIL (Not in top 3)",
+      "notes": "Failed: Very recent release notes not fully ingested yet."
+    },
+    {
+      "query_id": "Q_125",
+      "query": "What are the release notes for Katib v0.17 new early stopping algorithms?",
+      "expected_intent": "docs",
+      "ground_truth_available": false,
+      "retrieval_result": "FAIL (Not in top 3)",
+      "notes": "Failed: Very recent release notes not fully ingested yet."
+    },
+    {
+      "query_id": "Q_126",
+      "query": "What are the release notes for Jupyter web app 1.9 volume mount bugs?",
+      "expected_intent": "docs",
+      "ground_truth_available": false,
+      "retrieval_result": "FAIL (Not in top 3)",
+      "notes": "Failed: Very recent release notes not fully ingested yet."
+    },
+    {
+      "query_id": "Q_127",
+      "query": "What are the release notes for Training operator v1.8 resume logic?",
+      "expected_intent": "docs",
+      "ground_truth_available": false,
+      "retrieval_result": "FAIL (Not in top 3)",
+      "notes": "Failed: Very recent release notes not fully ingested yet."
+    },
+    {
+      "query_id": "Q_128",
+      "query": "What are the release notes for KFP v2.3 artifact registry updates?",
+      "expected_intent": "docs",
+      "ground_truth_available": false,
+      "retrieval_result": "FAIL (Not in top 3)",
+      "notes": "Failed: Very recent release notes not fully ingested yet."
+    },
+    {
+      "query_id": "Q_129",
+      "query": "What are the release notes for Istio 1.22 compatibility notes in Kubeflow 1.9?",
+      "expected_intent": "docs",
+      "ground_truth_available": false,
+      "retrieval_result": "FAIL (Not in top 3)",
+      "notes": "Failed: Very recent release notes not fully ingested yet."
+    },
+    {
+      "query_id": "Q_130",
+      "query": "What are the release notes for Dex OIDC custom claims in recent patch?",
+      "expected_intent": "docs",
+      "ground_truth_available": false,
+      "retrieval_result": "FAIL (Not in top 3)",
+      "notes": "Failed: Very recent release notes not fully ingested yet."
+    }
+  ]
+}
